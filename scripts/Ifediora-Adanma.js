@@ -1,8 +1,9 @@
 const Profile ={
-    name: 'Ifediora Adanma',
-    id: 'HNG-00592',
-    email: 'judith.ifediora@gmail.com',
-    language: 'Javascript'
+ var name ="Ifediora Adanma";
+   var ID ="HNG-00592"
+   var email ="judith.ifediora@gmail.com";
+   var language =" Javascript"
 };
-console.log(`Hello World,this is ${Profile.name} with HNGi7 ID ${Profile .id} and email ${profile.email} using ${Profile.language} for stage 2 task
-`)
+let Data = (`Hello World,this is ${name} with HNGi7 ID ${id} and email ${email} using ${language} for stage 2 task`;
+console.log(Data);            
+
